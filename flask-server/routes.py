@@ -31,8 +31,8 @@ from flask_cors import CORS, cross_origin
 
 
 
-client_id = 'bbdba9d33a94452d99c8ad6265848131'
-client_secret = '45481fed0ca64752b897bc8b05fd9519'
+client_id = 'INSERT CLIENT ID'
+client_secret = 'INSERT CLIENT SECRET'
 ACCESS_EXPIRES = timedelta(hours=1)
 
 
